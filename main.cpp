@@ -1,3 +1,6 @@
+//Copyright genuineProgress 2020-2021
+//Made as a course project for MSU MechMath CS course
+//Contact info: Github genuineProgress
 #include "Interface.h"
 
 int main () {
@@ -6,8 +9,3 @@ int main () {
     Interface::run ();
     delete ss;
 }
-/* to be done:
- * - async between getting info from user and from server
- */
-
-// There is an idea that getting and sending messages should be separated to differnet threads

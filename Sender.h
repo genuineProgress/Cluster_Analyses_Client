@@ -1,3 +1,6 @@
+//Copyright genuineProgress 2020-2021
+//Made as a course project for MSU MechMath CS course
+//Contact info: Github genuineProgress
 #ifndef CLIENT__SENDER_H_
 #define CLIENT__SENDER_H_
 #include <string>
